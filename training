@@ -1,0 +1,12 @@
+{
+"ip_interaface" : [
+{
+"interface" : "fastethernet",
+"ip-address" : "100.0.0.1",
+"ok?" : "yes",
+"method" : "manual",
+"status" : "up",
+"protocol" : "up",
+},
+],
+
